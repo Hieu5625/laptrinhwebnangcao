@@ -1,0 +1,25 @@
+	.App {
+	font-family: Arial, sans-serif;
+	}
+  
+	.layout {
+	display: flex;
+	margin-top: 20px;
+	}
+  
+	.sidebar {
+	width: 250px;
+  	}
+  
+  	.main-content {
+  	flex: 1;
+  	padding: 20px;
+  	}
+  
+  footer {
+  	background-color: #333;
+  	color: white;
+  	text-align: center;
+  	padding: 10px;
+  	margin-top: 20px;
+  }

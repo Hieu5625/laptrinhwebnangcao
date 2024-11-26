@@ -1,0 +1,21 @@
+input{
+    margin: 20px 40%;
+    margin-top: 10%;
+
+}
+button{
+    border-radius: 20px;
+    border: none;
+    width: 100px;
+    height: 30px;
+    margin: 0 43%;
+    color: #ffffff;
+    background-color: rgb(36, 47, 201);
+    cursor: pointer;
+}
+p{
+    margin: 20px 35%;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+}
